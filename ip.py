@@ -37,3 +37,6 @@ result_ip_sort = result_ip_sort[:-11:-1]
 print(result_ip_sort)
 
 print('end analysis...')
+
+''' можно использовать from Collections import Counter 
+далее с= Counter(список) и на выходе выдаёт словарь с ключом ip (в нашем случае) и кол-вом    '''
